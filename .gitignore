@@ -31,3 +31,4 @@ coverage/
 Thumbs.db
 Desktop.ini
 
+db.sqlite3
